@@ -60,3 +60,25 @@ td {
 a {
   color: #000;
 }
+
+.flash-message {
+  color: #00FFD6;
+}
+
+.flash-message.notice {
+  color: #00FFD6;
+}
+
+#error_explanation {
+  color: #d9534f;
+  background-color: #f2dede;
+  border: 1px solid #ebccd1;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+#error_explanation h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
